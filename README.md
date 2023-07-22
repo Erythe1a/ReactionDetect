@@ -7,7 +7,7 @@
 エラー報告は開発者の [Twitter](https://twitter.com/Pumi1a) か [github](https://github.com/Pumi1a/ReactionDetect) までお知らせ下さい。
 なお、利用しているホスティングサービスは "Railway" になります。性能はメモリが 8GB、CPU が 8 コアになります。そこまで負荷のかかる Bot ではないと思いますが、もしかしたら安定しなくなるかもしれません。"Railway" については[こちら](https://qiita.com/Pumila/items/29f26fb349d5592046ae)を参考にして下さい。
 
-# 導入方法
+## 導入方法
 **注意：Bot の導入はサーバの管理者権限を持っている方しか出来ません。**
 
 [こちら](https://discord.com/api/oauth2/authorize?client_id=1063085355726798869&permissions=2048&scope=bot%20applications.commands)からクリックしてログイン後、導入したいサーバを選択して[はい]、続いて認証を押下して下さい。ロボットかどうかの確認画面でチェックして導入完了です。
