@@ -1,6 +1,8 @@
 ## Introduction
 In the past, I found it inconvenient when I didn't notice the reactions used for replies and responses in Discord, so I created a Bot that reacts to reactions and sends notifications. When a user reacts, the Bot mentions the message owner. Please refer to the following [article](https://qiita.com/Pumila/items/cf447c24538e13994a38) for how it works. I have decided to release this Bot (I don't know if there is a demand for it...). Please give it a try.
-![キャプチャ.PNG](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/1115291/54a2de5e-a96a-3964-c84e-80a5daf9b0b7.png)
+
+![キャプチャ](https://github.com/Pumi1a/ReactionDetect/assets/61972244/a1be651e-5ef9-4266-ab2b-9ecef81f6927)
+
 
 ## Cautions
 Please report errors to the developer's Twitter or github.
