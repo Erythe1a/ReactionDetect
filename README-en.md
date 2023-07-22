@@ -4,9 +4,7 @@ In the past, I found it inconvenient when I didn't notice the reactions used for
 
 ## Cautions
 Please report errors to the developer's Twitter or github.
-The hosting service used is "Railway". It has 8GB of memory and 8 CPU cores. I don't think it's a particularly heavy load Bot, but it might become unstable. I have summarized "Railway" in the following [article](https://qiita.com/Pumila/items/29f26fb349d5592046ae).
-
-https://qiita.com/Pumila/items/29f26fb349d5592046ae
+The hosting service used is "Railway". It has 8GB of memory and 8 CPU cores. I don't think it's a particularly heavy load Bot, but it might become unstable. Please refer to [this](https://qiita.com/Pumila/items/29f26fb349d5592046ae) for information about "Railway".
 
 ## Installation
 Note: Only those with server administrator privileges can install the Bot.
