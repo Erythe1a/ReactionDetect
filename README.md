@@ -1,3 +1,4 @@
+[English README is here](https://github.com/Pumi1a/ReactionDetectR/blob/main/README-en.md)
 ## はじめに
 以前、Discord の返信や応答などに使われるリアクションに気づかないことがあり不便なため、リアクションに反応して通知してくれる Bot を作りました。ユーザがリアクションすると Bot がメッセージ主にメンションする流れになっています。動作に関しては[こちら](https://qiita.com/Pumila/items/cf447c24538e13994a38)を参考にして下さい。この度、この Bot を公開させて頂くことにしました（需要があるかは知りませんが…）。ぜひ使ってみて下さい。
 ![キャプチャ.PNG](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/1115291/54a2de5e-a96a-3964-c84e-80a5daf9b0b7.png)
