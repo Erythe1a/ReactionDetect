@@ -6,9 +6,7 @@
 
 ## 注意点
 エラー報告は開発者の [Twitter](https://twitter.com/Pumi1a) か [github](https://github.com/Pumi1a/ReactionDetect) までお知らせ下さい。
-なお、利用しているホスティングサービスは "Railway" になります。性能はメモリが 8GB、CPU が 8 コアになります。そこまで負荷のかかる Bot ではないと思いますが、もしかしたら安定しなくなるかもしれません。"Railway" については以下記事にまとめています。
-
-https://qiita.com/Pumila/items/29f26fb349d5592046ae
+なお、利用しているホスティングサービスは "Railway" になります。性能はメモリが 8GB、CPU が 8 コアになります。そこまで負荷のかかる Bot ではないと思いますが、もしかしたら安定しなくなるかもしれません。"Railway" については[こちら](https://qiita.com/Pumila/items/29f26fb349d5592046ae)を参考にして下さい。
 
 # 導入方法
 **注意：Bot の導入はサーバの管理者権限を持っている方しか出来ません。**
