@@ -40,4 +40,4 @@ https://www.amazon.co.jp/dp/B004N3APGO
 
 https://www.paypal.com/paypalme/IrsPumila
 
-For opinions, impressions, requests, error reports, etc., please contact Twitter.
+For opinions, impressions, requests, error reports, etc., please contact [Twitter](https://twitter.com/Pumi1a).
