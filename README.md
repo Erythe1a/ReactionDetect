@@ -21,10 +21,10 @@ I will explain each slash command of the Bot. If you get an error when executing
 #### Changing the notification channel
 You can change the channel to which notifications are sent. The default is the system message channel.
 
-1. Enter "/", click the icon of Reaction Notification-kun, select /set_channel from the command list.
+1. Enter "/", click the icon of Reaction Notification-kun, select `/set_channel` from the command list.
 2. Enter the name of the channel you want to be notified and execute. You can also select from the suggested options.
-3. If you select a channel where the Bot has no posting authority, or a channel that is not a text channel, you will receive the following warnings. Warning: No permission to post in the channel {new_channel.name}., {new_channel.name} is not a text channel..
-4. You will receive a message from the Bot saying Set channel to {new_channel_name}..
+3. If you select a channel where the Bot has no posting authority, or a channel that is not a text channel, you will receive the following warnings. `Warning: No permission to post in the channel {new_channel.name}.`, `{new_channel.name} is not a text channel.`.
+4. You will receive a message from the Bot saying `Set channel to {new_channel_name}.`.
 ![キャプチャ.PNG](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/1115291/08c532b7-ca08-59f8-18f7-7aaec400dd19.png)
 
 
