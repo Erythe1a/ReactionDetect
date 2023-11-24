@@ -6,12 +6,12 @@ In the past, I found it inconvenient when I didn't notice the reactions used for
 
 
 ## Cautions
-Please report errors to the developer's Twitter or github.
+Please report errors to the developer's [Twitter](https://twitter.com/Pumi1a) or [github](https://github.com/Pumi1a/ReactionDetect).
 The hosting service used is "Railway". It has 8GB of memory and 8 CPU cores. I don't think it's a particularly heavy load Bot, but it might become unstable. Please refer to [this](https://qiita.com/Pumila/items/29f26fb349d5592046ae) for information about "Railway".
 
 ## Installation
 Note: Only those with server administrator privileges can install the Bot.
-Click here, login, choose the server you want to install, click [Yes], and then press the authorization button. Check the confirmation screen whether it's a robot or not and the installation is complete.
+Click [here](https://discord.com/api/oauth2/authorize?client_id=1063085355726798869&permissions=2048&scope=bot%20applications.commands), login, choose the server you want to install, click [Yes], and then press the authorization button. Check the confirmation screen whether it's a robot or not and the installation is complete.
 If you no longer need it, I would appreciate it if you could expel it to reduce the server load.
 
 ## Usage
