@@ -28,15 +28,4 @@ Bot の各スラッシュコマンドについて説明していきます。ス�
 
 ## 最後に
 Discord のリアクションに反応し通知する Bot を作ったはいいものの、公開しようと思いつつ色々と忙しくて、公開できませんでした。ちょうど機会があったのでこの度公開させて頂きました。ぜひ使ってみて下さい。
-サーバの維持費用のために、この Bot を気に入ってくれた方はご寄付して頂けると助かります。
-
-【Amazon ギフト券 受取人：yskl6695@gmail.com】
-
-https://www.amazon.co.jp/dp/B004N3APGO
-
-【PayPal】
-
-https://www.paypal.com/paypalme/IrsPumila
-
-ご意見、ご感想、ご要望、エラー報告などは[Twitter](https://twitter.com/Pumi1a) まで。
 
